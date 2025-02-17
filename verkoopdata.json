@@ -1,0 +1,231 @@
+{
+  "2024": {
+    "q1": {
+      "producten": [
+        {
+          "categorie": "Elektronica",
+          "items": [
+            {
+              "naam": "Laptop",
+              "verkopen": {
+                "jan": 150,
+                "feb": 180,
+                "mrt": 210
+              },
+              "inkoopprijs": {
+                "jan": 800,
+                "feb": 800,
+                "mrt": 750
+              },
+              "verkoopprijs": {
+                "jan": 999,
+                "feb": 999,
+                "mrt": 899
+              },
+              "klanttevredenheid": {
+                "score": 4.2,
+                "reviews": [
+                  {
+                    "datum": "2024-01-15",
+                    "score": 4,
+                    "tekst": "Goede laptop voor deze prijs"
+                  },
+                  {
+                    "datum": "2024-02-03",
+                    "score": 5,
+                    "tekst": "Perfecte prijs-kwaliteitverhouding"
+                  },
+                  {
+                    "datum": "2024-03-12",
+                    "score": 3,
+                    "tekst": "Batterij gaat niet zo lang mee als verwacht"
+                  }
+                ]
+              }
+            },
+            {
+              "naam": "Smartphone",
+              "verkopen": {
+                "jan": 320,
+                "feb": 280,
+                "mrt": 350
+              },
+              "inkoopprijs": {
+                "jan": 500,
+                "feb": 500,
+                "mrt": 480
+              },
+              "verkoopprijs": {
+                "jan": 699,
+                "feb": 699,
+                "mrt": 649
+              },
+              "klanttevredenheid": {
+                "score": 4.5,
+                "reviews": [
+                  {
+                    "datum": "2024-01-22",
+                    "score": 5,
+                    "tekst": "Geweldige camera!"
+                  },
+                  {
+                    "datum": "2024-02-15",
+                    "score": 4,
+                    "tekst": "Mooi toestel, maar prijzig"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "categorie": "Kantoor",
+          "items": [
+            {
+              "naam": "Bureau",
+              "verkopen": {
+                "jan": 45,
+                "feb": 52,
+                "mrt": 48
+              },
+              "inkoopprijs": {
+                "jan": 250,
+                "feb": 250,
+                "mrt": 275
+              },
+              "verkoopprijs": {
+                "jan": 399,
+                "feb": 399,
+                "mrt": 449
+              },
+              "klanttevredenheid": {
+                "score": 4.5,
+                "reviews": [
+                  {
+                    "datum": "2024-01-05",
+                    "score": 5,
+                    "tekst": "Stevig bureau, makkelijk in elkaar te zetten"
+                  },
+                  {
+                    "datum": "2024-02-28",
+                    "score": 4,
+                    "tekst": "Goed bureau voor thuiswerken"
+                  }
+                ]
+              }
+            },
+            {
+              "naam": "Bureaustoel",
+              "verkopen": {
+                "jan": 60,
+                "feb": 75,
+                "mrt": 80
+              },
+              "inkoopprijs": {
+                "jan": 150,
+                "feb": 150,
+                "mrt": 160
+              },
+              "verkoopprijs": {
+                "jan": 299,
+                "feb": 299,
+                "mrt": 319
+              },
+              "klanttevredenheid": {
+                "score": 4.8,
+                "reviews": [
+                  {
+                    "datum": "2024-01-18",
+                    "score": 5,
+                    "tekst": "Zeer comfortabel"
+                  },
+                  {
+                    "datum": "2024-02-22",
+                    "score": 5,
+                    "tekst": "Beste stoel die ik ooit heb gehad"
+                  },
+                  {
+                    "datum": "2024-03-15",
+                    "score": 4,
+                    "tekst": "Fijne stoel, maar armsteunen wat aan de lage kant"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "categorie": "Gaming",
+          "items": [
+            {
+              "naam": "Gaming Monitor",
+              "verkopen": {
+                "jan": 95,
+                "feb": 120,
+                "mrt": 140
+              },
+              "inkoopprijs": {
+                "jan": 400,
+                "feb": 380,
+                "mrt": 380
+              },
+              "verkoopprijs": {
+                "jan": 599,
+                "feb": 549,
+                "mrt": 549
+              },
+              "klanttevredenheid": {
+                "score": 4.6,
+                "reviews": [
+                  {
+                    "datum": "2024-01-30",
+                    "score": 5,
+                    "tekst": "Geweldige refresh rate!"
+                  },
+                  {
+                    "datum": "2024-03-02",
+                    "score": 4,
+                    "tekst": "Mooi beeld, speakers wat aan de zachte kant"
+                  }
+                ]
+              }
+            },
+            {
+              "naam": "Gaming Headset",
+              "verkopen": {
+                "jan": 180,
+                "feb": 210,
+                "mrt": 250
+              },
+              "inkoopprijs": {
+                "jan": 80,
+                "feb": 80,
+                "mrt": 75
+              },
+              "verkoopprijs": {
+                "jan": 129,
+                "feb": 129,
+                "mrt": 119
+              },
+              "klanttevredenheid": {
+                "score": 4.3,
+                "reviews": [
+                  {
+                    "datum": "2024-02-05",
+                    "score": 4,
+                    "tekst": "Goed geluid voor deze prijs"
+                  },
+                  {
+                    "datum": "2024-03-18",
+                    "score": 5,
+                    "tekst": "Perfect voor gaming"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

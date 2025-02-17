@@ -1,0 +1,22 @@
+fix = true
+src = ["src"]
+extend-exclude = [".venv"]
+
+[lint.pycodestyle]
+max-line-length = 100
+
+
+[lint]
+select = ["E", "F", "I", "C90"]
+fixable = ["E", "F", "I"]
+
+[lint.isort]
+section-order = [
+    "future",
+    "standard-library",
+    "third-party",
+    "first-party",
+    "local-folder",
+]
+force-wrap-aliases = true
+combine-as-imports = true
